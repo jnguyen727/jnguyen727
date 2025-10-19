@@ -56,7 +56,7 @@ My work focuses on the classification and visualization of in-flight signals usi
 *Python, NumPy, SciPy, Matplotlib*  
 - Rendered the “Bad Apple!!” PV entirely as RF-style spectrograms.  
 - Translated image frames into frequency-domain signals using STFT-based pipelines.  
-- Simulated frequency-aligned RF signals from 0.8–7.8 kHz with real-time playback and visualization.
+- Simulated frequency-aligned RF signals from 100 Hz and 12 kHz with real-time playback and visualization.
 ![Bad Apple Spectrogram](badapplegiif.gif)
 ### NERV Missile Defense Simulator  
 *C++, chrono, RNG*  
