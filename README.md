@@ -33,20 +33,15 @@ My work focuses on the classification and visualization of in-flight signals usi
 
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)  
 **Undergraduate Researcher — RF Simulation Team** | Aug 2025 – Present  
-- Simulating RF signals using TorchSig, NumPy, and SciPy to generate realistic datasets for classification.  
-- Building GPU-accelerated spectrogram visualization pipelines for in-flight signal analysis.  
-- Collaborating with RTX engineers and Purdue researchers toward integration in an upcoming F-16 flight test.
+At The Data Mine at Purdue University, I collaborate with engineers from Raytheon Technologies (RTX) as part of the RF Simulation Team, where I develop and visualize synthetic RF signal datasets using TorchSig, NumPy, and SciPy. My work focuses on simulating and transforming RF data for signal classification models and supporting integration in an upcoming F-16 flight test.
 
 ### DegreeCat  
 **Data Engineer Intern (Remote)** | Sep 2024 – Jan 2025  
-- Cleaned and standardized over 30,000 records from multiple sources using Pandas.  
-- Built modular ETL pipelines that reduced data cleaning time by 40%.  
-- Supported analytics and dashboard development for education datasets.
+As a Data Engineer Intern at DegreeCat, I built modular ETL pipelines in Python that standardized over 30,000 education records from multiple sources, cutting data cleaning time by 40% and enabling scalable analytics and dashboarding.
 
 ### Vincennes University  
 **Head Early College Mathematics Tutor** | Mar 2024 – May 2024  
-- Led mathematics tutoring for first-generation and low-income students in the Early College Program.  
-- Mentored peers to build academic confidence and improve mathematical performance.
+Previously, I served as Head Mathematics Tutor for the Early College Program at Vincennes University, where I mentored first-generation and low-income students, helping them strengthen mathematical understanding and academic confidence.
 
 ---
 
