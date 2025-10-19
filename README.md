@@ -63,7 +63,7 @@ My work focuses on the classification and visualization of in-flight signals usi
 - Developed a terminal-based missile defense simulation with a deterministic 10–20 Hz tick-rate loop.  
 - Implemented real-time entity management, collision logic, and efficient update cycles.  
 - Designed allocation-free components for embedded-friendly performance.
-
+![Eva Showcase](showcase.gif)
 ---
 
 ## Education
