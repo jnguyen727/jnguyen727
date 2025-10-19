@@ -1,7 +1,7 @@
 # Johnny Nguyen
 
-**Computer Science | Purdue University (Systems Programming Track)**  
-Fort Wayne, IN  
+**Computer Science | Purdue University**  
+West Lafayette, IN  
 Email: nguye875@purdue.edu  
 LinkedIn: [linkedin.com/in/jnguyen727](https://linkedin.com/in/jnguyen727)  
 GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
