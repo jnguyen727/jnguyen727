@@ -75,12 +75,5 @@ Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discre
 
 ---
 
-## Contact
-
-Email: nguye875@purdue.edu  
-LinkedIn: [linkedin.com/in/jnguyen727](https://linkedin.com/in/jnguyen727)  
-GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
-
----
 
 Currently seeking co-op and internship opportunities in defense, security, or systems software development.
