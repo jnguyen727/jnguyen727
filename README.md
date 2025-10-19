@@ -10,7 +10,7 @@ GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
 
 ## About Me
 
-Hi, I’m Johnny Nguyen, a first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.  
+Hi, I’m Johnny Nguyen, a proud first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.  
 I’m passionate about software engineering, particularly in systems and software related to defense, security, and aerospace technologies.  
 My current focus lies in signal processing and the use of RF data for defense applications.
 
