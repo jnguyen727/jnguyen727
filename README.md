@@ -57,7 +57,7 @@ My work focuses on the classification and visualization of in-flight signals usi
 - Rendered the “Bad Apple!!” PV entirely as RF-style spectrograms.  
 - Translated image frames into frequency-domain signals using STFT-based pipelines.  
 - Simulated frequency-aligned RF signals from 0.8–7.8 kHz with real-time playback and visualization.
-
+![Bad Apple Spectrogram](badapplegiif.gif)
 ### NERV Missile Defense Simulator  
 *C++, chrono, RNG*  
 - Developed a terminal-based missile defense simulation with a deterministic 10–20 Hz tick-rate loop.  
