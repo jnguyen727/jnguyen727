@@ -77,6 +77,7 @@ Outside of class, here are some things I like
 - Listening to music
   [Spotify →](https://open.spotify.com/user/styliss0?si=86aa0a27294741fb)
 - Anime and Manga [MyAnimeList](https://myanimelist.net/profile/Styliss) - email me about my list
+- Bodybuilding 
 ---
 
 Currently seeking co-op and internship opportunities in defense, security, or systems software development.
