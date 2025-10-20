@@ -53,6 +53,7 @@ Previously, I served as Head Mathematics Tutor for the Early College Program at 
 - Translated image frames into frequency-domain signals using STFT-based pipelines.  
 - Simulated frequency-aligned RF signals from 100 Hz and 12 kHz with real-time playback and visualization.
 ![Bad Apple Spectrogram](badapplegiif.gif)
+https://www.youtube.com/watch?v=PvIkpahSdOw
 ### NERV Missile Defense Simulator  
 *C++, chrono, RNG*  
 - Developed a terminal-based missile defense simulation with a deterministic 10–20 Hz tick-rate loop.  
