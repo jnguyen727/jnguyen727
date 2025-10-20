@@ -41,7 +41,7 @@ As a Data Engineer Intern at DegreeCat, I built modular ETL pipelines in Python 
 
 ### Vincennes University  
 **Head Early College Mathematics Tutor** | Mar 2024 – May 2024  
-Previously, I served as Head Mathematics Tutor for the Early College Program at Vincennes University, where I mentored first-generation like myself, helping them strengthen mathematical understanding and academic confidence.
+Previously, I served as Head Mathematics Tutor for the Early College Program at my high school, ran by Vincennes University, where I mentored first-generation students like myself, helping them strengthen mathematical understanding and academic confidence.
 
 ---
 
