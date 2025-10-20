@@ -70,6 +70,15 @@ Bachelor of Science in Computer Science — GPA: 3.55 / 4.00
 Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, Object-Oriented Programming (Java), Big Data Analysis (Hadoop, HiveQL)
 
 ---
+## Beyond Tech
 
+Outside of class, here are some things I like
+- Playing the game (Overwatch 2, Rainbow Six Siege, osu!)
+- Listening to music
+  [Spotify →](https://open.spotify.com/user/styliss0?si=86aa0a27294741fb)
+- Bodybuilding
+- Anime [MyAnimeList](https://myanimelist.net/profile/Styliss)
+
+---
 
 Currently seeking co-op and internship opportunities in defense, security, or systems software development.
