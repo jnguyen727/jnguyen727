@@ -73,11 +73,10 @@ Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discre
 ## Beyond Tech
 
 Outside of class, here are some things I like
-- Playing the game (Overwatch 2, Rainbow Six Siege, osu!)
+- Playing video games (Overwatch 2, Rainbow Six Siege, osu!, Roblox)
 - Listening to music
   [Spotify →](https://open.spotify.com/user/styliss0?si=86aa0a27294741fb)
-- Bodybuilding
-- Anime [MyAnimeList](https://myanimelist.net/profile/Styliss)
+- Anime and Manga [MyAnimeList](https://myanimelist.net/profile/Styliss) (Email me about my list please)
 
 ---
 
