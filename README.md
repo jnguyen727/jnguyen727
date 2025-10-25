@@ -18,8 +18,6 @@ I’m currently conducting RF signal research through The Data Mine at Purdue Un
 My work focuses on the classification and visualization of in-flight signals using GPU-accelerated Python pipelines and spectrogram analysis.  
 [Read more about the project](https://crp.the-examples-book.com/rtx-classification-of-rf-signals-captured-in-flight-using-gpu-accelerated-python-scripts-54)
 
-I also <3 C
-
 ---
 
 ## Technical Skills
