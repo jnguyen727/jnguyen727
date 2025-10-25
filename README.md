@@ -10,13 +10,15 @@ GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
 
 ## About Me
 
-Hi, I’m Johnny Nguyen, a proud first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.  
+Hi, I’m Johnny Nguyen, a proud first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.   
 I’m passionate about software engineering, particularly in systems and software related to defense, security, and aerospace technologies.  
 My current focus lies in signal processing and the use of RF data for defense applications.
 
 I’m currently conducting RF signal research through The Data Mine at Purdue University in collaboration with Raytheon Technologies.  
 My work focuses on the classification and visualization of in-flight signals using GPU-accelerated Python pipelines and spectrogram analysis.  
 [Read more about the project](https://crp.the-examples-book.com/rtx-classification-of-rf-signals-captured-in-flight-using-gpu-accelerated-python-scripts-54)
+
+I also <3 C
 
 ---
 
