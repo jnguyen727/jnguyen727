@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=PvIkpahSdOw
 **Purdue University**, West Lafayette, IN  
 Bachelor of Science in Computer Science — GPA: 3.55 / 4.00  
 *July 2024 – May 2027*  
-Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, Object-Oriented Programming (Java), Big Data Analysis (Hadoop, HiveQL)
+Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, Object-Oriented Programming (Java), Big Data Analysis (Hadoop, HiveQL) taken at Yonsei University
 
 ---
 ## Hobbies
