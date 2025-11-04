@@ -33,6 +33,11 @@ My work focuses on the classification and visualization of in-flight signals usi
 
 ## Experience
 
+### Sandia National Laboratories
+**Incoming SWE Intern** | May 2026 - Aug 2026
+
+Incoming Summer 2026 at Sandia National Laboratories based in Albuquerque, NM.
+
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)  
 **Undergraduate Researcher — RF Simulation Team** | Aug 2025 – Present  
 At The Data Mine at Purdue University, I collaborate with engineers from Raytheon Technologies (RTX) as part of the RF Simulation Team, where I develop and visualize synthetic RF signal datasets using TorchSig, NumPy, and SciPy. My work focuses on simulating and transforming RF data for signal classification models and supporting integration in an upcoming F-16 flight test.
