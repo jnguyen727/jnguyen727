@@ -34,9 +34,7 @@ My work focuses on the classification and visualization of in-flight signals usi
 ## Experience
 
 ### Sandia National Laboratories
-**Incoming SWE Intern** | May 2026 - Aug 2026
-
-Incoming Summer 2026 at Sandia National Laboratories based in Albuquerque, NM.
+**Incoming SW Intern** | May 2026 - Aug 2026
 
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)  
 **Undergraduate Researcher — RF Simulation Team** | Aug 2025 – Present  
