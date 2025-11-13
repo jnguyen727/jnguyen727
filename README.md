@@ -78,10 +78,9 @@ Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discre
 ## Hobbies
 
 Outside of class, here are some things I like
-- Games (Overwatch 2, Rainbow Six Siege, osu!, Roblox)
+- Videogames
 - Listening to music
   [Spotify →](https://open.spotify.com/user/styliss0?si=86aa0a27294741fb)
-- Anime and Manga [MyAnimeList](https://myanimelist.net/profile/jnguyen727) - email me about my list
 - Bodybuilding 
 ---
 
