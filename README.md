@@ -80,5 +80,4 @@ Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discre
 Outside of class, here are some things I like
 - Videogames
 - Listening to music
-  [Spotify →](https://open.spotify.com/user/styliss0?si=86aa0a27294741fb)
 - Bodybuilding 
