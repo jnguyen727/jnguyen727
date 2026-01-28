@@ -12,22 +12,20 @@ GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
 
 Hi, I’m Johnny Nguyen, a proud first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.   
 I’m passionate about software engineering, particularly in systems and software related to defense, security, and aerospace technologies.  
-My current focus lies in signal processing and the use of RF data for defense applications.
 
 This summer I will be interning at Sandia National Laboratories as part of the TITANS SW Program.
 
 I’m currently conducting RF signal research through The Data Mine at Purdue University in collaboration with Raytheon Technologies.  
 My work focuses on the classification and visualization of in-flight signals using GPU-accelerated Python pipelines and spectrogram analysis.  
-[Read more about the project](https://crp.the-examples-book.com/rtx-classification-of-rf-signals-captured-in-flight-using-gpu-accelerated-python-scripts-54)
+[Read more about the project](https://crp.the-examples-book.com/rtx-classification-of-rf-signals-captured-in-flight-using-gpu-accelerated-python-scripts-77/)
 
 ---
 
 ## Technical Skills
 
-**Languages:** C++, C, Python, Java, JavaScript, HTML/CSS  
+**Languages:** C++, C, Assembly, Python, Java, JavaScript, HTML/CSS  
 **Systems & Tools:** Linux, Git, GDB, Agile/Scrum  
 **Data & Visualization:** NumPy, SciPy, TorchSig, Pandas, Hadoop, HiveQL, Matplotlib  
-**Focus Areas:** Systems Programming, RF Signal Processing, Defense Software, Real-Time Simulation
 
 ---
 
@@ -66,9 +64,9 @@ https://www.youtube.com/watch?v=PvIkpahSdOw
 ## Education
 
 **Purdue University**, West Lafayette, IN  
-Bachelor of Science in Computer Science — GPA: 3.55 / 4.00  
+Bachelor of Science in Computer Science — GPA: 3.51 / 4.00  
 *July 2024 – May 2027*  
-Relevant Coursework: Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, Object-Oriented Programming (Java), Big Data Analysis (Hadoop, HiveQL) taken at Yonsei University
+Relevant Coursework: Systems Programming, Computer Security, Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, Object-Oriented Programming (Java), Big Data Analysis (Hadoop, HiveQL) taken at Yonsei University
 
 ---
 ## Hobbies
