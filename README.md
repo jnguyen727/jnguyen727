@@ -11,9 +11,10 @@ GitHub: [github.com/jnguyen727](https://github.com/jnguyen727)
 ## About Me
 
 Hi, I’m Johnny Nguyen, a proud first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue University on the Systems Programming track.   
-I’m passionate about software engineering, particularly in systems and software related to defense, security, and aerospace technologies.  
+I’m passionate about software engineering, particularly in systems and software related to defense, security, and aerospace technologies. As you see, I like 
+building fun little projects whenever I can!
 
-This summer I will be interning at Sandia National Laboratories as part of the TITANS SW Program.
+This summer I will be interning at Sandia National Laboratories as part of the TITANS SW Program in Albuquerque, NM.
 
 I’m currently conducting RF signal research through The Data Mine at Purdue University in collaboration with Raytheon Technologies.  
 The capstone project focuses on the classification and visualization of in-flight signals using GPU-accelerated Python pipelines and spectrogram analysis.  
