@@ -11,7 +11,7 @@ West Lafayette, IN
 
 Hi, I'm Johnny, a first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue on the Systems Software track.
 
-I'm drawn to low-level systems work and software related to defense, security, and aerospace. I like understanding how things actually work at the machine level, and I try to build projects that reflect that.
+I'm drawn to low-level systems work and software related to defense, security, and aerospace. 
 
 ---
 
@@ -31,7 +31,7 @@ Selected to join Sandia's TITANS Software Engineering program. Working on compil
 
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)
 **Undergraduate Researcher, RF Simulation Team** | Aug 2025 – May 2026  
-Simulated RF signals using TorchSig, NumPy, and SciPy, applying transformations and distortions to improve data realism for downstream classification tasks. Generated and visualized time-frequency spectrograms to prepare datasets for signal classification models, collaborating in Agile sprints under RTX mentorship toward integration in an upcoming F-16 flight test.
+Simulated RF signals using TorchSig, NumPy, and SciPy, applying transformations and distortions to improve data realism for downstream classification tasks. Generated and visualized time-frequency spectrograms to prepare datasets for signal classification models, collaborating in Agile sprints under RTX mentorship toward integration in F-16 jets for testing. Showcased a live demo of the project during a symposium at Purdue University.
 
 ### DegreeCat
 **Data Engineer Intern (Remote)** | Sep 2024 – Jan 2025  
@@ -81,8 +81,4 @@ B.S. Computer Science, Systems Software Concentration | GPA: 3.51 / 4.00
 
 Relevant Coursework: Systems Programming, Computer Security, Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, OOP (Java), Big Data Analysis *(Hadoop, HiveQL, taken at Yonsei University)*
 
----
 
-## Personal
-
-In my free time I like to do things like go to the gym, watch anime, and play video games. Right now I play osu!, Deadlock, and OSRS. Here is my MAL https://myanimelist.net/profile/jnguyen727.
