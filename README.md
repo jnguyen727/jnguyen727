@@ -13,11 +13,6 @@ Hi, I'm Johnny, a first-generation Computer Science student from Fort Wayne, Ind
 
 I'm drawn to low-level systems work and software related to defense, security, and aerospace. I like understanding how things actually work at the machine level, and I try to build projects that reflect that.
 
-This summer I'll be interning at **Sandia National Laboratories** (Albuquerque, NM) as part of the **TITANS SW Program**, working on a project simulating general-purpose program execution on dataflow accelerators.
-
-I'm also wrapping up undergraduate research through **The Data Mine at Purdue** in collaboration with **Raytheon Technologies**, where my team focuses on the classification and visualization of in-flight RF signals using GPU-accelerated Python pipelines and spectrogram analysis.  
-[Read more about the project](https://crp.the-examples-book.com/rtx-classification-of-rf-signals-captured-in-flight-using-gpu-accelerated-python-scripts-77/)
-
 ---
 
 ## Technical Skills
