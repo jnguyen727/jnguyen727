@@ -27,7 +27,7 @@ I'm drawn to low-level systems work and software related to defense, security, a
 
 ### Sandia National Laboratories
 **Software Engineering Intern, TITANS SW Program** | May 2026 – Aug 2026  
-Selected to join Sandia's TITANS Software Engineering program. Assigned to a project simulating general-purpose program execution on dataflow accelerators for high-performance computing research.
+Selected to join Sandia's TITANS Software Engineering program. Working on compilers
 
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)
 **Undergraduate Researcher, RF Simulation Team** | Aug 2025 – May 2026  
