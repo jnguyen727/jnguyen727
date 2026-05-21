@@ -11,7 +11,7 @@ West Lafayette, IN
 
 Hi, I'm Johnny, a first-generation Computer Science student from Fort Wayne, Indiana, studying at Purdue on the Systems Software track.
 
-I'm drawn to low-level systems work and software related to defense, security, and aerospace. 
+I'm drawn to low-level systems work and software related to defense, security, and aerospace. Right now I am in Albuqerque, NM interning at Sandia National Laboratories as part of the TITANS SW program doing R&D work on LLVM/Compilers.
 
 ---
 
@@ -27,7 +27,7 @@ I'm drawn to low-level systems work and software related to defense, security, a
 
 ### Sandia National Laboratories
 **Software Engineering Intern, TITANS SW Program** | May 2026 – Aug 2026  
-Selected to join Sandia's TITANS Software Engineering program.
+TITANS SW R&D intern working on LLVM/Compilers.
 
 ### The Data Mine at Purdue University & Raytheon Technologies (RTX)
 **Undergraduate Researcher, RF Simulation Team** | Aug 2025 – May 2026  
