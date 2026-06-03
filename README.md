@@ -76,7 +76,7 @@ Mentored first-generation college students in foundational mathematics, helping 
 ## Education
 
 **Purdue University**, West Lafayette, IN  
-B.S. Computer Science, Systems Software Concentration | GPA: 3.51 / 4.00  
+B.S. Computer Science, Systems Software Concentration | GPA: 3.57 / 4.00  
 *July 2024 – May 2027*
 
 Relevant Coursework: Systems Programming, Computer Security, Data Structures & Algorithms, Computer Architecture, Discrete Math, C Programming, OOP (Java), Big Data Analysis *(Hadoop, HiveQL, taken at Yonsei University)*
