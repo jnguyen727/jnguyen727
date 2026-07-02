@@ -30,7 +30,8 @@ Developing LLVM compiler passes to extract control/data flow graphs (CDFGs) from
 ### The Data Mine at Purdue & Raytheon Technologies (RTX)
 **Undergraduate Researcher, RF Simulation Team** | Aug 2025 – May 2026  
 Simulated RF signals with TorchSig/NumPy/SciPy and generated spectrograms for classification models, working in Agile sprints under RTX mentorship toward F-16 test integration. Presented live demo at Purdue symposium.
-
+![Live Demo](IMG_6166.jpeg)  
+![Live Demo](IMG_6167.jpeg)  
 ### DegreeCat
 **Data Engineer Intern (Remote)** | Sep 2024 – Jan 2025  
 Cleaned and standardized 30k+ records from 10+ sources; built modular ETL pipelines in Python that cut cleaning time by 40%.
