@@ -24,7 +24,7 @@ First-gen CS student from Fort Wayne, IN, studying Systems Software at Purdue. I
 ## Experience
 
 ### Sandia National Laboratories
-**Software Engineering Intern, TITANS SW Program** | May 2026 – Aug 2026  
+**R&D Intern, TITANS SW Program** | May 2026 – Aug 2026  
 Developing LLVM compiler passes to extract control/data flow graphs (CDFGs) from source programs, integrating output into an HPC architecture simulation pipeline for performance mapping.
 
 ### The Data Mine at Purdue & Raytheon Technologies (RTX)
