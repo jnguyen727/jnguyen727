@@ -11,7 +11,10 @@ West Lafayette, IN
 
 ## About Me
 
-First-gen CS student from Fort Wayne, IN, studying Systems Software at Purdue. Interested in low-level systems, defense, and aerospace software. Currently interning at Sandia National Labs (TITANS SW Program), working on LLVM/compiler R&D.
+First-gen CS student from Fort Wayne, IN, studying Systems Software at Purdue.
+Interested in compilers, low-level systems, and defense/aerospace software.
+Currently building LLVM compiler passes at Sandia National Labs to support
+research on spatial dataflow accelerators.
 
 ---
 
@@ -27,7 +30,10 @@ First-gen CS student from Fort Wayne, IN, studying Systems Software at Purdue. I
 
 ### Sandia National Laboratories
 **Year-Round Compiler R&D Intern** | May 2026 – Present  
-Developing LLVM compiler passes to extract control/data flow graphs (CDFGs) from source programs, integrating output into an HPC architecture simulation pipeline for performance mapping.
+Sole developer of LLVM compiler passes in C++ for a spatial dataflow accelerator
+architecture, extracting control/data flow graphs from loop structures. Work
+closely with mentor and research team on design, then implement and debug the
+resulting synchronization and correctness issues.
 
 ### The Data Mine at Purdue & Raytheon Technologies (RTX)
 **Undergraduate Researcher, RF Simulation Team** | Aug 2025 – May 2026  
