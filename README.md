@@ -30,7 +30,7 @@ research on spatial dataflow accelerators.
 
 ### Sandia National Laboratories
 **Year-Round Compiler R&D Intern** | May 2026 – Present  
-Sole developer of LLVM compiler passes in C++ for a spatial dataflow accelerator
+Developer of LLVM compiler passes in C++ for a spatial dataflow accelerator
 architecture, extracting control/data flow graphs from loop structures. Work
 closely with mentor and research team on design, then implement and debug the
 resulting synchronization and correctness issues.
